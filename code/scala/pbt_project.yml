@@ -1,0 +1,22 @@
+name: kiesha.heathcote
+description: User fork
+version: 1
+author: lenora.balistreri@yahoo.com
+workflows:
+  workflows/W1:
+    name: W1
+    description: Really solid info
+    author: lenora.balistreri@yahoo.com
+    mode: batch
+    language: scala
+    createdAt: '2022-01-04 22:50:55'
+    datasets:
+      inputs: []
+      outputs: []
+datasets: {}
+schedules:
+  schedules/Eddie_Hoppe:
+    name: Eddie_Hoppe
+    description: Really solid info
+    createdAt: '2022-01-04 22:50:55'
+    author: lenora.balistreri@yahoo.com
